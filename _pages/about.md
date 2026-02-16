@@ -6,6 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="margin: 0 0 25px 0; border-radius:8px; overflow:hidden;">
+  <img src="/images/banner.jpg"
+       alt="Banner"
+       style="width:100%; height:160px; object-fit:cover; display:block;">
+</div>
 
 <h3>Hi there, this is Haolin Zhou.</h3>
 
