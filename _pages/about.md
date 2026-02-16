@@ -1,16 +1,43 @@
 ---
 permalink: /
-title: "Welcome"
+#title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<div style="margin: 0 0 25px 0; border-radius:8px; overflow:hidden;">
+<div style="position:relative; margin:-20px 0 25px 0; border-radius:12px; overflow:hidden;">
+
+  <!-- banner -->
   <img src="/images/banner.jpg"
-       alt="Banner"
-       style="width:100%; height:160px; object-fit:cover; display:block;">
+       style="width:100%; height:300px; object-fit:cover; display:block;">
+
+  <!-- cover -->
+  <div style="
+    position:absolute;
+    bottom:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.45));
+  "></div>
+
+  <!-- words on top -->
+  <div style="
+    position:absolute;
+    bottom:20px;
+    left:30px;
+    color:white;
+    font-size:32px;
+    font-weight:600;
+    letter-spacing:1px;
+  ">
+    biogeochemical cycling
+  </div>
+
 </div>
+
+<h1>Welcome</h1>
 
 <h3>Hi there, this is Haolin Zhou.</h3>
 
