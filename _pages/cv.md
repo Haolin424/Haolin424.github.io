@@ -7,58 +7,24 @@ redirect_from:
   - /resume
 ---
 
+<a href="../files/CV_HZ.pdf" target="_blank" rel="noopener noreferrer">&#128196; Full CV</a>
+
 {% include base_path %}
+
+Academic Appointments
+======
+* Michel T. Halbouty ’30 Postdoctoral Fellow, Texas A&M, 2026 - Present
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Earth Science, Rice University, 2020 - 2025
+* MSc in Earth Science, University of Alberta, 2017 - 2020
+* BS in Geological Engineering, China University of Petroleum - Beijing, 2013 - 2017
 
-Work experience
+Awards/Grants
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Michel T. Halbouty ’30 Postdoctoral Fellowship, Texas A&M, 2026 - 2028
+* Grants-in-Aid (David Worthington Named Grant), AAPG, 2022 & 2025
+* First Prize of Presentation of Surface Analysis & SIMS workshop, 2023
+* Graduate Student Research Grant (Outstanding Mention), GSA, 2022
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
