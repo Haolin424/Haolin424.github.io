@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="../files/CV_HZ.pdf" target="_blank" rel="noopener noreferrer">&#128196; Full CV (as of Feb 23, 2026)</a>
+<a href="../files/CV_long.pdf" target="_blank" rel="noopener noreferrer">&#128196; Full CV (as of Apr 25, 2026)</a>
 
 {% include base_path %}
 
