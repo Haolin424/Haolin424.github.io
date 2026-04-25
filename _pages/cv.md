@@ -24,6 +24,7 @@ Education
 Awards/Grants
 ======
 * Michel T. Halbouty ’30 Postdoctoral Fellowship, Texas A&M, 2026 - 2028
+* Leroy Caleb Gibbon Award, Rice University, 2026
 * Grants-in-Aid (David Worthington Named Grant), AAPG, 2022 & 2025
 * First Prize of Presentation of Surface Analysis & SIMS workshop, 2023
 * Graduate Student Research Grant (Outstanding Mention), GSA, 2022
